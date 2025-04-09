@@ -1,1 +1,17 @@
+com\unilasalle\model\Recurso.class
+com\unilasalle\model\Projeto.class
+com\unilasalle\repository\ChatIARepository.class
+com\unilasalle\repository\ProjetoRepository.class
+com\unilasalle\dto\UsuarioDTO.class
+com\unilasalle\repository\UsuarioRepository.class
+com\unilasalle\controller\UsuarioController.class
+com\unilasalle\model\Usuario.class
+com\unilasalle\repository\TarefaRepository.class
+com\unilasalle\dto\RecursoDTO.class
+com\unilasalle\dto\ChatIaDTO.class
+com\unilasalle\dto\ProjetoDTO.class
+com\unilasalle\dto\TarefaDTO.class
+com\unilasalle\repository\RecursoRepository.class
+com\unilasalle\model\Tarefa.class
+com\unilasalle\model\ChatIa.class
 com\unilasalle\projectify\ProjectifyApplication.class
